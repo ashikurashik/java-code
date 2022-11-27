@@ -1,0 +1,10 @@
+console.log('Hello Mia')
+console.log('I love bangladesh')
+console.log('45')
+console.log('45.400')
+
+console.log('My Fav No:' + 9)
+console.log(9+9)
+console.log('9' + 9)
+console.log('11' + 1)
+console.log(9-9)
